@@ -3,9 +3,9 @@
 
 **NYC DoIIT Geoclient:**   
 https://api.cityofnewyork.us/geoclient/v1/doc  
-http://carsonfarmer.com/2014/03/nyc_geocoder/  
+Here is an article on how to call the API in Python - http://carsonfarmer.com/2014/03/nyc_geocoder/  
 
-**NYC Dept of City Planning (DCP) Geosupport:**
+**NYC Dept of City Planning (DCP) Geosupport:**  
 http://www1.nyc.gov/site/planning/data-maps/open-data/dwn-gde-home.page
 
 
