@@ -19,3 +19,9 @@ http://library.columbia.edu/locations/dssc/data/spatialdata.html
 
 Here is a tutorial video for how to geocode in ARcGIS 10 using locator files (requires creating an ESRI login - for free):  
 http://training.esri.com/gateway/index.cfm?fa=catalog.webCourseDetail&courseID=1969  
+
+####QGIS Geocoder  
+Use with Google API and pause functionality - time intensive  
+
+####Google API  
+Python code with pause for Google geocoding  
